@@ -12,7 +12,7 @@ Below is a description of my new webpage with city, state, country, and shape fi
 ### Results
 XXX
 
-![Resources](https://github.com/jag28731/UFO-Sightings/blob/main/Resources/UFO%20Sightings.png)
+![Resources](https://github.com/jag28731/UFO-Sightings/blob/main/static/images/UFO%20Sightings.png)
     
 ## UFO Sightings Summary
 
