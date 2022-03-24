@@ -18,8 +18,8 @@ The webpage is very easy to use to get the results you are looking for. The webp
 
 - One drawback of the webpage:
   
-  The webpage only contains limited data. The date would have to be continously updated/edited as new sightings are spotted.  
+  The filters don't have information on which cities, state, and countries are available to search.
   
 - Two recommendations for further development of the webpage:
   
-  For cosmetics purposes, I would update all the information to use capital letters for the city, state, shape, and country. Another recommendation would be to add more specific location information. Cities are large and clarifying where in the city the sighting took place would be more beneficial. 
+  For cosmetics purposes, I would update all the information to use capital letters for the city, state, shape, and country. Another recommendation would be to add more information on what the UFO did during the sighting. Did it move, did it stand still, did it spin ect... 
